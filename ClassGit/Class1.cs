@@ -8,5 +8,7 @@ namespace ClassGit
 {
     public class Class1
     {
+
+        ////test
     }
 }
